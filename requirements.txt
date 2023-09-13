@@ -1,0 +1,8 @@
+dydx-v3-python==2.0.1
+web3==5.31.3
+pandas
+pandas_ta
+python-decouple==3.8
+schedule==1.2.0
+tksvg
+auto-py-to-exe
